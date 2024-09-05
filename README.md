@@ -6,7 +6,6 @@ Define a GPT model (e.g., GPT-2 or GPT-3 from Huggingface)
 Create a UI to interact with the model
 Deploy the model using Gradio or Streamlit for a user interface
 Here’s a basic setup for a GPT-2 model using Huggingface Transformers with a Gradio UI. This is an example to get you started, which can be expanded for more complex requirements like using GPT-3.
-
 Step-by-step guide for GPT-2 with Gradio UI on Colab:
 1. Install Required Libraries
 Run this in a Colab cell to install Huggingface Transformers and Gradio:
